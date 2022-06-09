@@ -1,0 +1,25 @@
+body {
+    margin: 5em auto;
+    text-align: center;
+}
+
+.container {
+    box-sizing: border-box;
+    margin: 5em auto;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    margin: 0 5em;
+}
+
+button:hover {
+    color: white;
+    background-color: black;
+}
+
+button {
+    padding: 0.5em 1em;
+}
